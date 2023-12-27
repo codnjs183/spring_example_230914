@@ -41,6 +41,6 @@ public class Lesson05Controller {
 		
 		model.addAttribute("users", users);
 		
-		return "lesson05/ex02";
+		return "lesson05/ex02";   
 	}
 }
