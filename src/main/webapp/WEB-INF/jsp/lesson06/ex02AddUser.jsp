@@ -82,7 +82,7 @@
 				if ($('#nameStatusArea').children().length < 1) {
 					alert("회원가입 진행");
 				} else {
-					alert("회원가입 불가");
+					alert("회원가입 불가");   
 				}
 				
 			});
